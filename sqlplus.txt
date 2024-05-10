@@ -1,0 +1,1 @@
+registrationnumber/registrationnumber@j1j2k1.c6hfisyr3ugy.us-east-1.rds.amazonaws.com:1521/orcl
